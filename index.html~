@@ -1,0 +1,10 @@
+---
+layout:default
+title:myBlog
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>new blog<h2>
+
+
